@@ -1,6 +1,6 @@
 # GitHub Classroomからclone用URLを取得
 
-1. [こちらのリンク]()からコードをclone
+1. [こちらのリンク](https://classroom.github.com/a/yRgScATF)からコードをclone
    ※認証を求められた場合は、GitHubアカウントでログインしてください。
 2. 以下の画面で「Accept the assignment」をクリック
     ![](./images/accept_the_assignment.png){: style="width: 660px;height: auto;" }
