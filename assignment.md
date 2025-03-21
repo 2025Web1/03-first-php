@@ -29,7 +29,8 @@ Dev Containersを起動した状態で、commitなどしようとした際、`Ma
 
 ### ◆ワークスペースの信頼を管理
 
-1. コマンドパレットを開いて(Ctrl-Shift-P MacはCmd-Shift-P)、`workspace trust`と入力 ![](./images/seigen2.png)
+1. コマンドパレットを開いて(Ctrl-Shift-P MacはCmd-Shift-P)、`workspace trust`と入力 
+    ![](./images/seigen2.png)
 2. 「親ディレクトリを信頼」を押す
    ![](./images/seigen3.png)
 
@@ -37,7 +38,7 @@ Dev Containersを起動した状態で、commitなどしようとした際、`Ma
 
 1. コマンドパレットを開いて、`dev containers local`と入力
 2. 「フォルダーを再度ローカルで開く(Dev Containers: Reopen Folder Locally)」を選択
-3. add、commit、pushができるようになります
+3. add、commit、pushができる
 ```
 
 ## 採点について
@@ -57,9 +58,9 @@ Dev Containersを起動した状態で、commitなどしようとした際、`Ma
    ※既に実施済みです。
 2. [本章リモートリポジトリ](https://classroom.github.com/a/yRgScATF)にアクセス<br>
 3. 画面上部にある`Actions`をクリック<br>
-   ![](./images/actions.jpg){: style="width: 660px;height: auto;" }
+   ![](./images/actions.png){: style="width: 660px;height: auto;" }
 4. **一番上**の行のタイトル横に、緑色のチェックが入っていればOK<br>
-   ![](./images/autograding.jpg){: style="width: 660px;height: auto;" }
+   ![](./images/auto-grading.jpg){: style="width: 660px;height: auto;" }
 
 ```note
 ## エラーが出た時の対処法
