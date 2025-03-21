@@ -22,7 +22,10 @@ PHPが動作する開発環境を構築します。
 7. しばらく待つ(CPUパワーとネットワークに依存)<br>
    ![](./images/reconfiguring-window.png)<br>
     気になる方はログを出すようにすると進行状況がわかります。<br>
-    ![](./images/reconfigure-view-log.png)
+    ![](./images/reconfigure-view-log.png)<br>
+    ```note
+      時間がかかるのは初回の起動時のみです。2回目以降は早いです。
+    ```
 8. `03-FIRST-PHP-ユーザー名[開発コンテナー...`表示され、`public`などのディレクトリが表示されていればOK<br>
    ![](./images/done.png)
 
