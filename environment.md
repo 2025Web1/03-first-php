@@ -23,7 +23,7 @@ PHPが動作する開発環境を構築します。
    ![](./images/reconfiguring-window.png)<br>
     気になる方はログを出すようにすると進行状況がわかります。<br>
     ![](./images/reconfigure-view-log.png)
-8. `03-FIRST-PHP-ユーザー名[開発コンテナー...`というプルダウンをクリックし、`public`ディレクトリがあればOK<br>
+8. `03-FIRST-PHP-ユーザー名[開発コンテナー...`表示され、`public`などのディレクトリが表示されていればOK<br>
    ![](./images/done.png)
 
 ```note
