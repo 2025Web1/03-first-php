@@ -29,6 +29,13 @@ PHPが動作する開発環境を構築します。
 8. `03-FIRST-PHP-ユーザー名[開発コンテナー...`表示され、`public`などのディレクトリが表示されていればOK<br>
    ![](./images/done.png)
 
+```tip
+## (追記)Dev Containersの停止方法
+
+1. コマンドパレットを開いて、`dev containers local`と入力
+2. 「フォルダーを再度ローカルで開く(Dev Containers: Reopen Folder Locally)」をクリック
+```
+
 ```note
 **今回のDockerを使った開発環境について説明すると、PHPでの開発がぼやけてしまうので、詳しくは後日まとめて解説します。**
 
