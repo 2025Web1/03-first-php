@@ -12,7 +12,7 @@ PHPが動作する開発環境を構築します。
 
 1. VSCodeのプラグイン「Dev Containers」をインストールする
    VSCode上で`Ctrl-Shift-X`(Macは、`Cmd-Shift-X`)と押し、検索バーに「Dev Containers」と入力し、インストールしてください。
-2. VScodeでcloneしたディレクトリ`03-first-php-GitHubのユーザー名`を開く
+2. VScodeでcloneしたディレクトリ`03-first-php...`を開く
 3. `Ctrl-Shift-P`(Macは、`Cmd-Shift-P`)でVSCodeのコマンドパレットを開く
 4. `rebuild`と入力する
 5. `Dev Container: Rebuild and Reopen in Container` が出てくるのでクリックする<br>
