@@ -51,7 +51,7 @@ sort: 3
 
 ![](./images/port-view.png)
 
-今回は1行しかないので、マウスカーソルをあてる(ホバーする)と、地球マークが出てくるのでクリックしてください。
+マウスカーソルをあてる(ホバーする)と、地球マークが出てくるのでクリックしてください。
 
 ![](./images/port-view-hover.png)
 
@@ -61,6 +61,8 @@ sort: 3
 
 URLの末尾に `/hello.php` を追加することで、`hello.php` の内容が表示されます。
 
-1. Ctrl-L(Cmd-L)を押すと大抵のブラウザはアドレス欄を編集できるようになります。
-2. アドレスの末尾に `hello.php` を付けてください。 ![](./images/add-hello.png)
-3. ファイルを作成していれば内容が出てきます。 ![](./images/hello-php.png)
+1. Ctrl-L(Cmd-L)を押すと大抵のブラウザはアドレス欄を編集できる
+2. アドレスの末尾に `hello.php` を付ける<br>
+  ![](./images/add-hello.png)
+3. 以下のように表示されればOK<br>
+   ![](./images/hello-php.png)

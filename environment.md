@@ -17,7 +17,7 @@ PHPが動作する開発環境を構築します。
 4. `rebuild`と入力する
 5. `Dev Container: Rebuild and Reopen in Container` が出てくるのでクリックする<br>
    ![](./images/type-rebuild.png)
-6. **PHP実習環境**をクリックする<br>
+6. `PHP実習環境`をクリックする<br>
    ![](./images/select-phpdev.png)
 7. しばらく待つ(CPUパワーとネットワークに依存)<br>
    ![](./images/reconfiguring-window.png)<br>
