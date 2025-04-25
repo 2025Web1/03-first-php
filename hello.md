@@ -13,24 +13,24 @@ sort: 3
 
 **hello.php**
 
-    ```php
-      <!-- 今回は初回なので、仮のファイルを用意しましたが、今後は指示に従い、自分でファイルを作っていって下さい -->
-      <!DOCTYPE html> <!-- ① -->
-      <html lang="ja"> <!-- ② -->
-      <head>
-          <meta charset="UTF-8"> <!-- ③ -->
-          <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <title>Document</title>
-      </head>
-      <body>
-          <!-- この領域がPHPの処理内容です -->
-          <?php // ④
-            echo '<p>Hello,PHP</p>'; // ⑤
-          ?> <!-- ⑥ -->
-          <!-- PHPはここまで -->
-      </body>
-      </html>
-    ```
+  ```php
+    <!-- 今回は初回なので、仮のファイルを用意しましたが、今後は指示に従い、自分でファイルを作っていって下さい -->
+    <!DOCTYPE html> <!-- ① -->
+    <html lang="ja"> <!-- ② -->
+    <head>
+        <meta charset="UTF-8"> <!-- ③ -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <!-- この領域がPHPの処理内容です -->
+        <?php // ④
+          echo '<p>Hello,PHP</p>'; // ⑤
+        ?> <!-- ⑥ -->
+        <!-- PHPはここまで -->
+    </body>
+    </html>
+  ```
 
 **【解説】**<br>
 
